@@ -20,7 +20,7 @@ for f in files:
             shutil.move(os.path.join(source_dir, f), os.path.join(source_dir, "Photos"))
         
         if os.path.join(source_dir, f).endswith(('.mp4', '.MP4')):
-            shutil.move(os.path.join(source_dir, f), os.path.join(source_dir, "Photos"))
+            shutil.move(os.path.join(source_dir, f), os.path.join(source_dir, "Videos"))
 
 
 # A view at the downloads folder after moving files
