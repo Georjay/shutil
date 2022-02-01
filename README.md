@@ -8,7 +8,7 @@ Command Prompt (CMD):
 git clone https://github.com/Georjay/shutil.git
 ```
 
-In CMD, navigate to the location of the downloaded file.
+In CMD, navigate to the location of the file.
 
 Run file:
 ```bash
